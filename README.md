@@ -23,14 +23,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Pakistan,  passionate about building scalable web applications.
+- :telescope: Currently working as a Software Engineer, contributing to both frontend and backend development.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:  Actively exploring technical content writing to share knowledge and insights.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I enjoy practice on platforms like GeeksforGeeks or Leetcode and reading tech articles to stay updated.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-majidali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ali-a31b09209/)
+- :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-majidali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ali-a31b09209/)
 
   ---
 
