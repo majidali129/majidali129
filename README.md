@@ -16,7 +16,6 @@ distraction tracking, and behavioral insights.
 - Next.js 14 + TypeScript
 - Prisma + MongoDB
 - CI/CD with Vercel
-- [Live Demo](#) | [Repository](#)
 
 ## 📊 GitHub Stats
 
@@ -29,5 +28,5 @@ distraction tracking, and behavioral insights.
 
 ## 📫 Connect
 
-- LinkedIn: [https://www.linkedin.com/in/majid-ali-a31b09209/](#)
+- LinkedIn: [https://www.linkedin.com/in/majid-ali-a31b09209/]
 - Email: majidaliofficial129@gmail.com
