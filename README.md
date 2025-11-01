@@ -30,3 +30,7 @@ distraction tracking, and behavioral insights.
 
 - LinkedIn: [https://www.linkedin.com/in/majid-ali-a31b09209/]
 - Email: majidaliofficial129@gmail.com
+
+
+
+💼 Open to full-stack developer opportunities
