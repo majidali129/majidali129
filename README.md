@@ -13,7 +13,7 @@ React, Node.js, and TypeScript.
 
 **FORGE** - A productivity platform combining goal management, 
 distraction tracking, and behavioral insights.
-- Next.js 14 + TypeScript
+- Next.js 16 + TypeScript 5
 - Prisma + MongoDB
 - CI/CD with Vercel
 
